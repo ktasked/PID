@@ -1,0 +1,66 @@
+```
+# CMake build artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+*.cmake
+
+# Qt build artifacts
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+*.moc.cpp
+*.moc.hpp
+*.moc.cc
+*.moc.hxx
+*.moc.cxx
+MocPredefs.h
+moc_*
+.qrc
+.qrc.cpp
+.ui
+.ui.cpp
+.ui.h
+.rc
+.rc.cpp
+.autogen/
+
+# Compiler and linker artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Environment and IDE files
+.env
+.env.local
+.env.*
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Coverage and testing
+coverage/
+htmlcov/
+.coverage
+
+# OS generated files
+.DS_Store
+Thumbs.db
+```
